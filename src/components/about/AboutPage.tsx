@@ -67,7 +67,7 @@ export function AboutPage() {
         : "Creating responsive and dynamic user interfaces that bring Sahayak AI to life across all devices with React and Tailwind CSS."
     },
     {
-      name: "Akshika",
+      name: "Riyansh",
       role: "Frontend Development & Integration",
       description: language === 'hi'
         ? "सुचारू एपीआई एकीकरण बना रही हैं और सुगम उपयोगकर्ता अंतःक्रियाओं के लिए फ्रंटएंड प्रदर्शन को अनुकूलित कर रही हैं।"
